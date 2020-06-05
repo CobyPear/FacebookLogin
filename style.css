@@ -1,0 +1,118 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header and logo */
+#header {
+    background-color: #48649F;
+    height: 84px;
+}
+
+#logo {
+    font-size: 31px;
+    color: #ffffff;
+    position: relative;
+    top: 30px;
+    font-weight: bold;
+}
+
+.container {
+    margin: 0 auto;
+    width: 980px;
+}
+
+/* input fields  */
+
+#login-container {
+    position: relative;
+    display: block;
+    float: right;
+    margin: -16px 10px;
+}
+
+#login-sub-container {
+    float: right;
+    margin-right: 14px;
+}
+
+.label {
+    display:block;
+    color: #ffffff;
+    font-size: .9em;
+    padding: 4px
+
+}
+
+/* login button */
+#login-btn {
+    height: 24px;
+    width: 50px;
+    background-color: #4267b2;
+    color: #eeeeee;
+    position: relative;
+    top: 14px;
+}
+
+/* main */
+#main-container {
+    height: 662px;
+    background-color: #edf0f5;
+}  
+
+/* about section */
+#about-title {
+    float: left;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+#about-section {
+    float: left;
+    font-size: 19px;
+    width: 40%;
+    position: relative;
+    top: 68px;
+    /* margin-top: 68px; */
+}
+
+.abouttext {
+    margin-bottom: 72px;
+}
+
+.abouttext span {
+    font-weight: bold;
+}
+
+/* signup section */
+#signup {
+    position: relative;
+    top: 28px;
+    width: 40%;
+    float: right;
+}
+
+#signup-title {
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+#signup-title-sub-text {
+    margin-top: 17px;
+}
+
+/* signup styles */
+
+.input {
+    height: 37px;
+    margin: 5px;
+    display: block
+}
+
+.input-name {
+    width: 49%;
+    float: top;
+}
+
+
+
+
